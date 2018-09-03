@@ -1,6 +1,11 @@
 .body_p {
   background-color: #6c757d;
 }
+.header{
+  background-color: #6c757d;
+  color: #6c757d;
+}
 article{
-  background-color: #1daa1d;
+  background-color: #0c490c;
+  color: #fcfcfc;
 }
