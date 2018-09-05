@@ -9,8 +9,3 @@ article{
   background-color: #0c490c;
   color: #fcfcfc;
 }
-
-.navbar-fixed-top.scrolled {
-  background-color: #fff !important;
-  transition: background-color 200ms linear;
-}
